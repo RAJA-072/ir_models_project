@@ -1,11 +1,14 @@
 
-# Assignment Output: Information Retrieval Models
+# Assignment: Information Retrieval Models
 
 ---
 
-**Student Name:** RAJA-072  
-**Roll Number:** [Your Roll Number Here]  
-**Course:** [Course Name Here]  
+**Student Name:** RAJA RAJESWARI R
+
+**Roll Number:** 22IT072
+
+**Course:** INFORMATION RETRIEVAL
+
 **Date:** August 15, 2025
 
 ---
@@ -48,19 +51,19 @@ corpus/              # Folder containing document files
 ## Screenshots
 
 ### Corpus Folder
-*(Attach screenshot of corpus folder here)*
+<img width="1894" height="780" alt="image" src="https://github.com/user-attachments/assets/96a9564a-c9a7-4953-a171-e108cbca0d74" />
+
 
 ### Output Results
-*(Attach screenshot of results.csv or output here)*
+<img width="1306" height="346" alt="image" src="https://github.com/user-attachments/assets/ba2aed94-f0d0-47df-9d1f-a9f5aa0a37c1" />
+
 
 ---
 
 ## Sample Output (results.csv)
-```
-[Paste a few lines of your results.csv here for reference]
-```
+
+<img width="1391" height="158" alt="image" src="https://github.com/user-attachments/assets/7fdb517c-e49c-442c-b484-efcdc3ea27db" />
+
+
 
 ---
-
-## Remarks
-Add any observations, challenges faced, or comments about the assignment here.
