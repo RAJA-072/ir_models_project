@@ -1,0 +1,1 @@
+Boolean retrieval uses set operations like AND, OR, and NOT.
